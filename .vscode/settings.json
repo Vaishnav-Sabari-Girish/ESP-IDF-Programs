@@ -2,5 +2,7 @@
     "idf.pythonInstallPath": "/usr/bin/python",
     "idf.monitorPort": "/dev/ttyUSB0",
     "stm32-for-vscode.openOCDPath": "/home/vaishnav/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/openocd/0.12.0-6.1/.content/bin/openocd",
-    "stm32-for-vscode.armToolchainPath": "/home/vaishnav/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin"
+    "stm32-for-vscode.armToolchainPath": "/home/vaishnav/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/14.2.1-1.1.1/.content/bin",
+    "idf.espIdfPath": "/home/vaishnav/esp/v5.4.1/esp-idf",
+    "idf.toolsPath": "/home/vaishnav/.espressif"
 }
