@@ -56,3 +56,35 @@ Cons:
 # Super Loop 
 
 ![image:width:100%](./images/super_loop.png)
+
+<!--end_slide-->
+
+# RTOS 
+
+![image:width:100%](./images/rtos_flow.png)
+
+<!--end_slide-->
+
+# Some Terminologies 
+
+## Task 
+
+Any piece of work we need done in a piece of code. 
+
+OR 
+
+Set of program instructions loaded in memory 
+
+## Thread 
+
+A unit of CPU utilization with it's own program memory and stack. 
+
+## Process 
+
+Instance of a computer program.
+
+---
+
+In FreeRTOS, task = thread. 
+
+
